@@ -1,3 +1,7 @@
+===============
+outline
+===============
+
 So-called “self-driving” Teslas keep crashing. During a four-month period this year, 11 people died in vehicle crashes involving automated driving systems in the United States, according to new government data reported by the Associated Press. Ten of the wrecks involved Teslas. While it’s not definitive whether the technology itself was to blame, the crashes suggest that Elon Musk’s Autopilot technology is far from foolproof.
 
 Luckily,  a simple solution: Take the bus. The best autopilot technology in the country is public transportation.
